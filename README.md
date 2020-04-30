@@ -10,5 +10,8 @@ It is spring time during the Covid-19 pandameic.  The flowers are in bloom, but 
 
 
 2. Models
-- FSM
+- [FSM](./models/fsm.ipynb): a simple convolutional neural net with a Convolutional2D layer, a MaxPooling layer, one dense layer and a softmax output. 
+
+
+
   
